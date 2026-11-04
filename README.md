@@ -1,5 +1,5 @@
 
-# Database - for any use, bot and.. idk i make this for bots
+# Database - for any use
 
 ![Wow](./image/huh-100kb.jpeg)
 ## Tutorial
