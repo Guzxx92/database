@@ -18,7 +18,7 @@ How to use this thing ??
 ## Description
 For the bot I made, also you can use if you want it, all of files create by me! So.. dont pertend some files is yours, please join my whatsapp channels!
 
-This repo can have games maybe.. other days or, whatever, images, you can make it tho, instead you uploading your files to [uguu](uguu.se) or [catbox](catbox.moe) website!
+This repo can have games maybe.. other days or, whatever, images, you can make repo like this to, instead you uploading your files to [uguu](uguu.se) or [catbox](catbox.moe) website, you make your own!
 
 **Requirement:** 
 - none
