@@ -17,10 +17,10 @@ How to use this thing ??
 
 **Example**
 ```js
-client.sendMessage(m.chat,
+client.sendMessage(m.chat, {
     image: { url: 'https://cdn.jsdelivr.net/gh/Guzxx92/database@main/image/thumb1.jpeg'},
     caption: 'this is my wife'
-)
+})
 ```
 
 ## Description
