@@ -6,7 +6,7 @@
 How to use this thing ??
 
 1. You can use raws from github or you can use cdn (fast)
-2. For example, select cnd, i want image thumbnail!
+2. For example, select cdn, i want image thumbnail!
 3. https://cdn.jsdelivr.net/gh/Guzxx92/database@main/image/thumb1.jpeg
 4. Now you can get that images!
 5. Mommy asmr
