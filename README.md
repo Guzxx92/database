@@ -1,7 +1,7 @@
 
 # Database - for any use, bot and.. idk i make this for bots
 
-![Wow](./image/huh-100kb.jepg)
+![Wow](./image/huh-100kb.jpeg)
 ## Tutorial
 How to use this thing ??
 
