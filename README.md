@@ -2,7 +2,7 @@
 # Database - for any use 🎀
 
 ![Wow](./image/huh-100kb.jpeg)
-## Tutorial
+## Tutorial & Format
 How to use this thing ??
 
 1. You can use raws from github or you can use cdn (fast)
@@ -11,7 +11,7 @@ How to use this thing ??
 4. Now you can get that images!
 5. Mommy asmr
 
-## Format
+**Format list**
 - https://raw.githubusercontent.com/Guzxx92/database/main/...
 - .https://cdn.jsdelivr.net/gh/Guzxx92/database@main/...
 
