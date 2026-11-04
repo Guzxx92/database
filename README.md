@@ -15,6 +15,14 @@ How to use this thing ??
 - https://raw.githubusercontent.com/Guzxx92/database/main/...
 - .https://cdn.jsdelivr.net/gh/Guzxx92/database@main/...
 
+**Example**
+```js
+client.sendMessage(m.chat,
+    image: { url: 'https://cdn.jsdelivr.net/gh/Guzxx92/database@main/image/thumb1.jpeg'},
+    caption: 'this is my wife'
+)
+```
+
 ## Description
 For the bot I made, also you can use if you want it, all of files create by me! So.. dont pertend some files is yours, please join my whatsapp channels!
 
