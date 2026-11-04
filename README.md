@@ -15,7 +15,7 @@ How to use this thing ??
 - https://raw.githubusercontent.com/Guzxx92/database/main/...
 - .https://cdn.jsdelivr.net/gh/Guzxx92/database@main/...
 
-**Example**
+**Example (whatsapp bot)**
 ```js
 client.sendMessage(m.chat, {
     image: { url: 'https://cdn.jsdelivr.net/gh/Guzxx92/database@main/image/thumb1.jpeg'},
